@@ -1,0 +1,16 @@
+/* Style for links */
+li a {
+    color: green;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+li a:hover {
+    text-decoration: underline;
+}
+
+/* Background styling */
+body {
+    background: white url("images/background.png") no-repeat center center fixed;
+    background-size: cover;
+}
